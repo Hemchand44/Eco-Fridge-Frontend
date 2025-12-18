@@ -4,16 +4,7 @@ A full-stack web application that helps users track food items, receive expiry a
 
 ---
 
----
-![Banner](https://github.com/saidebinsabid/food-expiry-tracker-system/blob/main/ecofridge.png)
----
 
-
-## 🌐 Live Demo
-
-👉 [Click here to view the live site](https://ecofridge.netlify.app/)
-
----
 
 ## 📌 Project Overview
 

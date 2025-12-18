@@ -61,7 +61,7 @@ const Footer = () => {
                     <FaTwitter size={20} className="text-[#1DA1F2]" />
                   </a>
                   <a
-                    href="https://www.facebook.com/saidebinsabid"
+                    href="https://www.facebook.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -75,7 +75,7 @@ const Footer = () => {
                     <FaInstagram size={20} className="text-[#C13584]" />
                   </a>
                   <a
-                    href="https://www.youtube.com/@ProgrammingHeroCommunity"
+                    href="https://www.youtube.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -93,7 +93,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-2">
                 <CiMail size={20} />
-                <p>M.Alyaqout@4house.Co</p>
+                <p>EcoFridge@4house.Co</p>
               </div>
               <div className="flex items-center gap-2">
                 <IoTimeOutline size={20} />
